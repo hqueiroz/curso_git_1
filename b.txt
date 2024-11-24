@@ -1,2 +1,4 @@
 Testando atualização do clone
 a
+clon
+node_modules
